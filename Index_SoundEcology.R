@@ -54,5 +54,5 @@ multiple_sounds(directory = wav_folder,
 
 multiple_sounds(directory = wav_folder, 
                 resultfile = "H_results.csv",
-                soundindex = "acoustic_diversity", 
+                soundindex = "H", 
                 no_cores = "max") # si se reduce el número de cores, se procesa más lento
